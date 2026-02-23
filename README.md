@@ -23,4 +23,5 @@ Install dependencies:
 pip install requests beautifulsoup4 pandas
 
 Run script:
-python scraper_books.py
+python scraper_books.py     <img width="1487" height="592" src="https://github.com/user-attachments/assets/3ca65c29-f5e3-40e7-b37b-76ddd4d8f056" />
+
